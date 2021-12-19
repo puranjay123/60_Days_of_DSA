@@ -1,1 +1,1 @@
-# 69_Days_of_DSA
+# 60_Days_of_DSA
